@@ -24,7 +24,7 @@ public class todo {
         System.out.println("No todos for today! :)");
 
 //        List Task
-//        Path inputFile = Paths.get("List_task.txt");
+//        Path inputFile = Paths.get("/List_task.txt");
 //        int count = 1;
 //        try {
 //          for (String line : Files.readAllLines(inputFile)) {
